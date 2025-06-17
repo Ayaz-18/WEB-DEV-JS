@@ -2,4 +2,4 @@
 it is repo for a website
 
 <br>
-Author-Aayaz
+Author-Aayaz Ali
